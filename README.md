@@ -39,6 +39,6 @@ In the futhure, it will support visualizing neural network architectures.
 ![SemanticRetrieval](https://github.com/xiaowangdu/Semantic-Retrieval/blob/master/Pictures/label.PNG)
 
 ### A simple file explorer
-Support copy, cut, paste, delete and drag copy etc. You can open more than one file broswer in your will, and operate between each.
+Support copy, cut, paste, delete and drag copy etc. You can open more than one file browser in your will, and operate between each.
 ![SemanticRetrieval](https://github.com/xiaowangdu/Semantic-Retrieval/blob/master/Pictures/files.PNG)
 ![SemanticRetrieval](https://github.com/xiaowangdu/Semantic-Retrieval/blob/master/Pictures/files-multiwin.PNG)
