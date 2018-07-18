@@ -11,9 +11,9 @@ git clone --recursive https://github.com/xiaowangdu/Semantic-Retrieval.git
 You need to install the caffe for windows because this project is depended on windows system. You can also consult the generic [Caffe windows installation guide](https://github.com/happynear/caffe-windows) for further help.
 
 ### Install dependencies
-* [Visual Studio 2015](https://github.com/sadeepj/crfasrnn_keras) version is now available. <br/>
-* [QT 5.7.0](https://github.com/sadeepj/crfasrnn_keras) version is now available. <br/>
-* [Opencv 310](https://github.com/sadeepj/crfasrnn_keras) version is now available. <br/>
+* [Visual Studio 2015](https://visualstudio.microsoft.com/zh-hans/)  <br/>
+* [QT 5.7.1](http://download.qt.io/archive/qt/5.7/5.7.1/) <br/>
+* [Opencv 310](https://opencv.org/opencv-3-1.html) <br/>
 
 ##### Dependent project
 
