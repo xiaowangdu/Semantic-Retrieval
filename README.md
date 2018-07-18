@@ -23,22 +23,22 @@ git clone --recursive https://github.com/xiaowangdu/cvprw15-win.git
 ```
 
 ### Retrieval
-![Pictures](retrieval.PNG)
+![SemanticRetrieval](https://github.com/xiaowangdu/Semantic-Retrieval/blob/master/Pictures/retrieval.PNG)
 
 ### Train 
-![Pictures](train.PNG)
-##### Caffe .prototxt editor
+![SemanticRetrieval](https://github.com/xiaowangdu/Semantic-Retrieval/blob/master/Pictures/train.PNG)
+##### Caffe prototxt editor
 Support syntax highlighting, bracket matching etc.
 In the futhure, it will support visualizing neural network architectures.
-![Pictures](prototxt_editor.PNG)
+![SemanticRetrieval](https://github.com/xiaowangdu/Semantic-Retrieval/blob/master/Pictures/prototxt_editor.PNG)
 
 ### Image preprocessing
-![Pictures](preprocess.PNG)
+![SemanticRetrieval](https://github.com/xiaowangdu/Semantic-Retrieval/blob/master/Pictures/preprocess.PNG)
 
 ### Label dataset
-![Pictures](label.PNG)
+![SemanticRetrieval](https://github.com/xiaowangdu/Semantic-Retrieval/blob/master/Pictures/label.PNG)
 
 ### A simple file explorer
 Support copy, cut, paste, delete and drag copy etc. You can open more than one file broswer in your will, and operate between each.
-![Pictures](files.PNG)
-![Pictures](files-multiwin.PNG)
+![SemanticRetrieval](https://github.com/xiaowangdu/Semantic-Retrieval/blob/master/Pictures/files.PNG)
+![SemanticRetrieval](https://github.com/xiaowangdu/Semantic-Retrieval/blob/master/Pictures/files-multiwin.PNG)
