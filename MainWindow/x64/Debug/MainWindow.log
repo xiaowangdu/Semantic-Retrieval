@@ -1,0 +1,32 @@
+﻿Build started 2018/7/14 10:56:36.
+     1>Project "F:\workspace\project\SemanticRetrieval\MainWindow\MainWindow.vcxproj" on node 2 (Build target(s)).
+     1>Project "F:\workspace\project\SemanticRetrieval\MainWindow\MainWindow.vcxproj" (1) is building "F:\workspace\project\SemanticRetrieval\LabelImage\LabelImage.vcxproj" (3:3) on node 2 (GetResolvedLinkLibs target(s)).
+   3:3>Project "F:\workspace\project\SemanticRetrieval\LabelImage\LabelImage.vcxproj" (3:3) is building "F:\workspace\project\SemanticRetrieval\XmlHelper\XmlHelper.vcxproj" (10:3) on node 3 (GetResolvedLinkLibs target(s)).
+    10>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+    10>Done Building Project "F:\workspace\project\SemanticRetrieval\XmlHelper\XmlHelper.vcxproj" (GetResolvedLinkLibs target(s)).
+     3>Done Building Project "F:\workspace\project\SemanticRetrieval\LabelImage\LabelImage.vcxproj" (GetResolvedLinkLibs target(s)).
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\workspace\project\SemanticRetrieval\x64\Debug\\MainWindow.exe" /NOLOGO /LIBPATH:D:\Qt\Qt5.7.1\5.7\msvc2015_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib Qt5Networkd.lib Qt5Xmld.lib Qt5XmlPatternsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\workspace\project\SemanticRetrieval\x64\Debug\MainWindow.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\workspace\project\SemanticRetrieval\x64\Debug\MainWindow.lib" /MACHINE:X64 x64\Debug\appearance.obj
+         x64\Debug\moc_MainWindow.obj
+         x64\Debug\moc_statusbar.obj
+         x64\Debug\qrc_MainWindow.obj
+         x64\Debug\iconloader.obj
+         x64\Debug\main.obj
+         x64\Debug\MainWindow.obj
+         x64\Debug\statusbar.obj
+         F:\workspace\project\SemanticRetrieval\x64\Debug\FileHelper.lib
+         F:\workspace\project\SemanticRetrieval\x64\Debug\Common.lib
+         F:\workspace\project\SemanticRetrieval\x64\Debug\Utility.lib
+         F:\workspace\project\SemanticRetrieval\XmlHelper\x64\Release\XmlHelper.lib
+         F:\workspace\project\SemanticRetrieval\x64\Debug\LabelImage.lib
+         F:\workspace\project\SemanticRetrieval\x64\Debug\Preprocessing.lib
+         F:\workspace\project\SemanticRetrieval\x64\Debug\LMDBGenerator.lib
+         F:\workspace\project\SemanticRetrieval\x64\Debug\RetrievalTest.lib
+         F:\workspace\project\SemanticRetrieval\x64\Debug\Training.lib
+         F:\workspace\project\SemanticRetrieval\x64\Debug\Widgets.lib
+         MainWindow.vcxproj -> F:\workspace\project\SemanticRetrieval\x64\Debug\MainWindow.exe
+     1>Done Building Project "F:\workspace\project\SemanticRetrieval\MainWindow\MainWindow.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.68

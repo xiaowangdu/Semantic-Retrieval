@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/matchmask.png</file>
+        <file>images/particleA.png</file>
+    </qresource>
+</RCC>

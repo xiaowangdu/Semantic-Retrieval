@@ -1,0 +1,38 @@
+﻿Build started 2018/7/14 9:22:39.
+     1>Project "F:\workspace\project\SemanticRetrieval\Common\Common.vcxproj" on node 3 (Rebuild target(s)).
+     1>CustomBuild:
+         Moc'ing LoggerInterface.h...
+         Moc'ing ProcessLogger.h...
+         Moc'ing ProcessLogging.h...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\Common.pdb" /Gd /TP /errorReport:prompt BaseShape.cpp CommonFunctions.cpp Exception.cpp GeneratedFiles\Debug\moc_LoggerInterface.cpp GeneratedFiles\Debug\moc_ProcessLogger.cpp GeneratedFiles\Debug\moc_ProcessLogging.cpp LoggerInterface.cpp main.cpp BaseShapeData.cpp ProcessLogger.cpp ProcessLogging.cpp
+         BaseShape.cpp
+         CommonFunctions.cpp
+         Exception.cpp
+         moc_LoggerInterface.cpp
+         moc_ProcessLogger.cpp
+         moc_ProcessLogging.cpp
+         LoggerInterface.cpp
+         main.cpp
+         BaseShapeData.cpp
+         ProcessLogger.cpp
+         ProcessLogging.cpp
+         Generating Code...
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"F:\workspace\project\SemanticRetrieval\x64\Debug\Common.lib" /NOLOGO /MACHINE:X64 x64\Debug\BaseShape.obj
+         x64\Debug\CommonFunctions.obj
+         x64\Debug\Exception.obj
+         x64\Debug\moc_LoggerInterface.obj
+         x64\Debug\moc_ProcessLogger.obj
+         x64\Debug\moc_ProcessLogging.obj
+         x64\Debug\LoggerInterface.obj
+         x64\Debug\main.obj
+         x64\Debug\BaseShapeData.obj
+         x64\Debug\ProcessLogger.obj
+         x64\Debug\ProcessLogging.obj
+         Common.vcxproj -> F:\workspace\project\SemanticRetrieval\x64\Debug\Common.lib
+     1>Done Building Project "F:\workspace\project\SemanticRetrieval\Common\Common.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.89

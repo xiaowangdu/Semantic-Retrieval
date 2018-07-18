@@ -1,0 +1,56 @@
+﻿Build started 2018/7/14 9:22:39.
+     1>Project "F:\workspace\project\SemanticRetrieval\Training\Training.vcxproj" on node 5 (Rebuild target(s)).
+     1>CustomBuild:
+         Moc'ing Training.h...
+         Uic'ing Training.ui...
+         Moc'ing GeneralConfig.h...
+         Moc'ing ProtoFileEditor.h...
+         Moc'ing EditorHighLighter.h...
+         Moc'ing EditorWidget.h...
+         Moc'ing TrainingConfig.h...
+         Rcc'ing Training.qrc...
+     1>RCC : warning : No resources in 'F:\workspace\project\SemanticRetrieval\Training\Training.qrc'.
+         
+         Uic'ing TrainingConfig.ui...
+         Uic'ing EditorWidget.ui...
+         Uic'ing GeneralConfig.ui...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\Training.pdb" /Gd /TP /errorReport:prompt EditorHighLighter.cpp EditorWidget.cpp GeneralConfig.cpp GeneratedFiles\Debug\moc_EditorHighLighter.cpp GeneratedFiles\Debug\moc_EditorWidget.cpp GeneratedFiles\Debug\moc_GeneralConfig.cpp GeneratedFiles\Debug\moc_ProtoFileEditor.cpp GeneratedFiles\Debug\moc_Training.cpp GeneratedFiles\Debug\moc_TrainingConfig.cpp main.cpp ProtoFileEditor.cpp Training.cpp TrainingConfig.cpp
+         EditorHighLighter.cpp
+         EditorWidget.cpp
+         GeneralConfig.cpp
+         moc_EditorHighLighter.cpp
+         moc_EditorWidget.cpp
+         moc_GeneralConfig.cpp
+         moc_ProtoFileEditor.cpp
+         moc_Training.cpp
+         moc_TrainingConfig.cpp
+         main.cpp
+         ProtoFileEditor.cpp
+         Training.cpp
+         TrainingConfig.cpp
+         Generating Code...
+     1>f:\workspace\project\semanticretrieval\training\protofileeditor.cpp(70): warning C4715: 'ProtoFileEditor::save': not all control paths return a value
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\Training.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_Training.cpp
+         qrc_Training.cpp
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"F:\workspace\project\SemanticRetrieval\x64\Debug\Training.lib" /NOLOGO /MACHINE:X64 x64\Debug\EditorHighLighter.obj
+         x64\Debug\EditorWidget.obj
+         x64\Debug\GeneralConfig.obj
+         x64\Debug\moc_EditorHighLighter.obj
+         x64\Debug\moc_EditorWidget.obj
+         x64\Debug\moc_GeneralConfig.obj
+         x64\Debug\moc_ProtoFileEditor.obj
+         x64\Debug\moc_Training.obj
+         x64\Debug\moc_TrainingConfig.obj
+         x64\Debug\qrc_Training.obj
+         x64\Debug\main.obj
+         x64\Debug\ProtoFileEditor.obj
+         x64\Debug\Training.obj
+         x64\Debug\TrainingConfig.obj
+         Training.vcxproj -> F:\workspace\project\SemanticRetrieval\x64\Debug\Training.lib
+     1>Done Building Project "F:\workspace\project\SemanticRetrieval\Training\Training.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:20.44

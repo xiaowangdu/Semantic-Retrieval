@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/content">
+        <file>qml/preprocessing_button.qml</file>
+    </qresource>
+</RCC>

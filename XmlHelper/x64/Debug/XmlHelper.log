@@ -1,0 +1,19 @@
+﻿Build started 2018/7/14 9:22:45.
+     1>Project "F:\workspace\project\SemanticRetrieval\XmlHelper\XmlHelper.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtXml /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtXmlPatterns /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_XML_LIB /D QT_XMLPATTERNS_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\XmlHelper.pdb" /Gd /TP /errorReport:prompt main.cpp VocXmlReader.cpp VocXmlWriter.cpp
+         main.cpp
+         VocXmlReader.cpp
+         VocXmlWriter.cpp
+         Generating Code...
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:".\x64\Release\XmlHelper.lib" /NOLOGO /MACHINE:X64 x64\Debug\main.obj
+         x64\Debug\VocXmlReader.obj
+         x64\Debug\VocXmlWriter.obj
+         XmlHelper.vcxproj -> F:\workspace\project\SemanticRetrieval\XmlHelper\.\x64\Release\XmlHelper.lib
+     1>Done Building Project "F:\workspace\project\SemanticRetrieval\XmlHelper\XmlHelper.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.36

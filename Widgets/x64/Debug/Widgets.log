@@ -1,0 +1,23 @@
+﻿Build started 2018/7/14 9:56:45.
+     1>Project "F:\workspace\project\SemanticRetrieval\Widgets\Widgets.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Moc'ing SimpleCanvas.hpp...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWinExtras /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_WINEXTRAS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\Widgets.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_SimpleCanvas.cpp SimpleCanvas.cpp
+         moc_SimpleCanvas.cpp
+         SimpleCanvas.cpp
+         Generating Code...
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"F:\workspace\project\SemanticRetrieval\x64\Debug\Widgets.lib" /NOLOGO /MACHINE:X64 x64\Debug\fancytabwidget.obj
+         x64\Debug\moc_fancytabwidget.obj
+         x64\Debug\moc_SimpleCanvas.obj
+         x64\Debug\main.obj
+         x64\Debug\SimpleCanvas.obj
+         x64\Debug\stylehelper.obj
+         x64\Debug\ToolBar.obj
+         Widgets.vcxproj -> F:\workspace\project\SemanticRetrieval\x64\Debug\Widgets.lib
+     1>Done Building Project "F:\workspace\project\SemanticRetrieval\Widgets\Widgets.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.95

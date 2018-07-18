@@ -1,0 +1,77 @@
+﻿Build started 2018/7/14 9:22:39.
+     1>Project "F:\workspace\project\SemanticRetrieval\FileHelper\FileHelper.vcxproj" on node 6 (Rebuild target(s)).
+     1>CustomBuild:
+         Moc'ing FileHelper.h...
+         Uic'ing FileHelper.ui...
+         Moc'ing Thread.h...
+         Moc'ing QMessageBoxComponent.h...
+         Moc'ing ProgressBar.h...
+         Moc'ing MarkedThread.h...
+         Moc'ing ImageLabel.h...
+         Moc'ing CopyWithWatcher.h...
+         Moc'ing FileBrowser.h...
+         Moc'ing FileList.h...
+         Rcc'ing FileHelper.qrc...
+     1>RCC : warning : No resources in 'F:\workspace\project\SemanticRetrieval\FileHelper\FileHelper.qrc'.
+         
+         Uic'ing FileList.ui...
+         Uic'ing FileBrowser.ui...
+         Uic'ing ProgressBar.ui...
+         Uic'ing QMessageBoxComponent.ui...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\FileHelper.pdb" /Gd /TP /errorReport:prompt commonfunctions.cpp CopyWithWatcher.cpp FileBrowser.cpp FileHelper.cpp FileList.cpp FileSystemModel.cpp GeneratedFiles\Debug\moc_CopyWithWatcher.cpp GeneratedFiles\Debug\moc_FileBrowser.cpp GeneratedFiles\Debug\moc_FileHelper.cpp GeneratedFiles\Debug\moc_FileList.cpp GeneratedFiles\Debug\moc_ImageLabel.cpp GeneratedFiles\Debug\moc_MarkedThread.cpp GeneratedFiles\Debug\moc_ProgressBar.cpp GeneratedFiles\Debug\moc_QMessageBoxComponent.cpp GeneratedFiles\Debug\moc_Thread.cpp ImageLabel.cpp main.cpp MarkedThread.cpp ProgressBar.cpp QMessageBoxComponent.cpp Thread.cpp
+         commonfunctions.cpp
+         CopyWithWatcher.cpp
+         FileBrowser.cpp
+         FileHelper.cpp
+         FileList.cpp
+         FileSystemModel.cpp
+         moc_CopyWithWatcher.cpp
+         moc_FileBrowser.cpp
+         moc_FileHelper.cpp
+         moc_FileList.cpp
+         moc_ImageLabel.cpp
+         moc_MarkedThread.cpp
+         moc_ProgressBar.cpp
+         moc_QMessageBoxComponent.cpp
+         moc_Thread.cpp
+         ImageLabel.cpp
+         main.cpp
+         MarkedThread.cpp
+         ProgressBar.cpp
+         QMessageBoxComponent.cpp
+         Generating Code...
+         Compiling...
+         Thread.cpp
+         Generating Code...
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\FileHelper.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_FileHelper.cpp
+         qrc_FileHelper.cpp
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"F:\workspace\project\SemanticRetrieval\x64\Debug\FileHelper.lib" /NOLOGO /MACHINE:X64 x64\Debug\commonfunctions.obj
+         x64\Debug\CopyWithWatcher.obj
+         x64\Debug\FileBrowser.obj
+         x64\Debug\FileHelper.obj
+         x64\Debug\FileList.obj
+         x64\Debug\FileSystemModel.obj
+         x64\Debug\moc_CopyWithWatcher.obj
+         x64\Debug\moc_FileBrowser.obj
+         x64\Debug\moc_FileHelper.obj
+         x64\Debug\moc_FileList.obj
+         x64\Debug\moc_ImageLabel.obj
+         x64\Debug\moc_MarkedThread.obj
+         x64\Debug\moc_ProgressBar.obj
+         x64\Debug\moc_QMessageBoxComponent.obj
+         x64\Debug\moc_Thread.obj
+         x64\Debug\qrc_FileHelper.obj
+         x64\Debug\ImageLabel.obj
+         x64\Debug\main.obj
+         x64\Debug\MarkedThread.obj
+         x64\Debug\ProgressBar.obj
+         x64\Debug\QMessageBoxComponent.obj
+         x64\Debug\Thread.obj
+         FileHelper.vcxproj -> F:\workspace\project\SemanticRetrieval\x64\Debug\FileHelper.lib
+     1>Done Building Project "F:\workspace\project\SemanticRetrieval\FileHelper\FileHelper.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:23.02

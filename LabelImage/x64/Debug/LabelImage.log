@@ -1,0 +1,35 @@
+﻿Build started 2018/7/14 10:30:32.
+     1>Project "F:\workspace\project\SemanticRetrieval\LabelImage\LabelImage.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtXml /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtXmlPatterns /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /D QT_XMLPATTERNS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\LabelImage.pdb" /Gd /TP /errorReport:prompt Canvas.cpp
+         Canvas.cpp
+     1>f:\workspace\project\semanticretrieval\labelimage\canvas.cpp(371): warning C4172: returning address of local variable or temporary
+     1>f:\workspace\project\semanticretrieval\labelimage\canvas.cpp(374): warning C4172: returning address of local variable or temporary
+     1>f:\workspace\project\semanticretrieval\labelimage\canvas.cpp(378): warning C4172: returning address of local variable or temporary
+     1>Project "F:\workspace\project\SemanticRetrieval\LabelImage\LabelImage.vcxproj" (1) is building "F:\workspace\project\SemanticRetrieval\XmlHelper\XmlHelper.vcxproj" (3:3) on node 4 (GetResolvedLinkLibs target(s)).
+     3>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     3>Done Building Project "F:\workspace\project\SemanticRetrieval\XmlHelper\XmlHelper.vcxproj" (GetResolvedLinkLibs target(s)).
+     1>Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"F:\workspace\project\SemanticRetrieval\x64\Debug\LabelImage.lib" /NOLOGO /MACHINE:X64 x64\Debug\LabelImage.res
+         x64\Debug\Shape.obj
+         x64\Debug\Canvas.obj
+         x64\Debug\ColorDialog.obj
+         x64\Debug\moc_Canvas.obj
+         x64\Debug\moc_ColorDialog.obj
+         x64\Debug\moc_LabelImage.obj
+         x64\Debug\moc_ZoomWidget.obj
+         x64\Debug\qrc_LabelImage.obj
+         x64\Debug\moc_LabelDialog.obj
+         x64\Debug\LabelDialog.obj
+         x64\Debug\LabelFile.obj
+         x64\Debug\LabelImage.obj
+         x64\Debug\Lib.obj
+         x64\Debug\main.obj
+         x64\Debug\UiManager.obj
+         x64\Debug\ZoomWidget.obj
+         LabelImage.vcxproj -> F:\workspace\project\SemanticRetrieval\x64\Debug\LabelImage.lib
+     1>Done Building Project "F:\workspace\project\SemanticRetrieval\LabelImage\LabelImage.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.67

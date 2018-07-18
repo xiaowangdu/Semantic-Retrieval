@@ -1,0 +1,26 @@
+﻿Build started 2018/7/14 9:22:39.
+     1>Project "F:\workspace\project\SemanticRetrieval\utility\utility.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Moc'ing Downloader.hpp...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtNetwork /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\Utility.pdb" /Gd /TP /errorReport:prompt Downloader.cpp GeneratedFiles\Debug\moc_Downloader.cpp Logging.cpp Settings.cpp main.cpp utilities.cpp
+         Downloader.cpp
+         moc_Downloader.cpp
+         Logging.cpp
+         Settings.cpp
+         main.cpp
+         utilities.cpp
+         Generating Code...
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"F:\workspace\project\SemanticRetrieval\x64\Debug\Utility.lib" /NOLOGO /MACHINE:X64 x64\Debug\Downloader.obj
+         x64\Debug\moc_Downloader.obj
+         x64\Debug\Logging.obj
+         x64\Debug\Settings.obj
+         x64\Debug\main.obj
+         x64\Debug\utilities.obj
+         utility.vcxproj -> F:\workspace\project\SemanticRetrieval\x64\Debug\Utility.lib
+     1>Done Building Project "F:\workspace\project\SemanticRetrieval\utility\utility.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.30

@@ -1,0 +1,24 @@
+﻿Build started 2018/7/14 10:56:35.
+     1>Project "F:\workspace\project\SemanticRetrieval\RetrievalTest\RetrievalTest.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Uic'ing RetrievalTest.ui...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\RetrievalTest.pdb" /Gd /TP /errorReport:prompt RetrievalTest.cpp
+         RetrievalTest.cpp
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"F:\workspace\project\SemanticRetrieval\x64\Debug\RetrievalTest.lib" /NOLOGO /MACHINE:X64 x64\Debug\RetrievalShowItem.obj
+         x64\Debug\moc_RetrievalConfig.obj
+         x64\Debug\moc_RetrievalShowItem.obj
+         x64\Debug\moc_RetrievalTest.obj
+         x64\Debug\moc_ShrinkImageView.obj
+         x64\Debug\qrc_RetrievalTest.obj
+         x64\Debug\main.obj
+         x64\Debug\RetrievalConfig.obj
+         x64\Debug\RetrievalTest.obj
+         x64\Debug\ShrinkImageView.obj
+         RetrievalTest.vcxproj -> F:\workspace\project\SemanticRetrieval\x64\Debug\RetrievalTest.lib
+     1>Done Building Project "F:\workspace\project\SemanticRetrieval\RetrievalTest\RetrievalTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.47

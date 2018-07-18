@@ -1,0 +1,30 @@
+﻿Build started 2018/7/14 9:22:39.
+     1>Project "F:\workspace\project\SemanticRetrieval\Preprocessing\Preprocessing.vcxproj" on node 4 (Rebuild target(s)).
+     1>CustomBuild:
+         Moc'ing Preprocessing.h...
+         Uic'ing Preprocessing.ui...
+     1>F:\workspace\project\SemanticRetrieval\Preprocessing\Preprocessing.ui : warning : The name 'widget' (QWidget) is already in use, defaulting to 'widget2'.
+         Rcc'ing Preprocessing.qrc...
+         Rcc'ing images.qrc...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\Preprocessing.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_Preprocessing.cpp main.cpp Preprocessing.cpp
+         moc_Preprocessing.cpp
+         main.cpp
+         Preprocessing.cpp
+         Generating Code...
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtCore /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtGui /ID:\Qt\Qt5.7.1\5.7\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\Preprocessing.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_images.cpp GeneratedFiles\qrc_Preprocessing.cpp
+         qrc_images.cpp
+         qrc_Preprocessing.cpp
+         Generating Code...
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"F:\workspace\project\SemanticRetrieval\x64\Debug\Preprocessing.lib" /NOLOGO /MACHINE:X64 x64\Debug\moc_Preprocessing.obj
+         x64\Debug\qrc_images.obj
+         x64\Debug\qrc_Preprocessing.obj
+         x64\Debug\main.obj
+         x64\Debug\Preprocessing.obj
+         Preprocessing.vcxproj -> F:\workspace\project\SemanticRetrieval\x64\Debug\Preprocessing.lib
+     1>Done Building Project "F:\workspace\project\SemanticRetrieval\Preprocessing\Preprocessing.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.19
