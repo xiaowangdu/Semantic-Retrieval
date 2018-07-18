@@ -1,5 +1,5 @@
 # Semantic Image Retrieval System
-Implement deep learning image semantic retrieval system.
+Implement deep learning image semantic retrieval system.  <br/>
 This is a project about image semantic retrieval with the visualized operation UI. The algorithm used 'Deep Learning of Binary Hash Codes for Fast Image Retrieval(CVPRW15)', for more infomation about CVPRW15-python please view another project [cvprw15-win](https://github.com/xiaowangdu/cvprw15-win).
 
 ## Installation
